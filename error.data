@@ -1,0 +1,7 @@
+error: invalid lexeme '.' ; position: 202; line: 9
+error: too long lexeme ; position: 286; line: 11
+error: invalid lexeme ''c' ; position: 321; line: 12
+error: invalid lexeme '';' ; position: 324; line: 12
+error: invalid lexeme '#' ; position: 913; line: 37
+error: invalid lexeme '.' ; position: 921; line: 37
+error: unclosed multiline comment ; position: 1110; line: 52
